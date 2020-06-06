@@ -21,7 +21,7 @@
     "@types/cheerio": "^0.22.18",
     "@types/cors": "^2.8.6",
     "@types/jsonwebtoken": "^8.5.0",
-    "apollo-server": "^2.13.1",
+    "apollo-server": "^2.14.2",
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0-rc.3",
